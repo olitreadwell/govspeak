@@ -1,5 +1,9 @@
 # Changelog
 
+## 10.11.1
+
+* Update dependencies
+
 ## 10.11.0
 
 * feature: Remove cards from govspeak [PR #494](https://github.com/alphagov/govspeak/pull/494)
