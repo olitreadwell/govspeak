@@ -1,5 +1,9 @@
 # Changelog
 
+## 10.11.4
+
+* Update dependencies
+
 ## 10.11.3
 
 * Update dependencies
